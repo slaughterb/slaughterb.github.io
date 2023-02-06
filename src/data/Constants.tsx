@@ -4,6 +4,7 @@ import CompilersProject from '../assets/project-images/compiler.png';
 import ColorPickerProject from '../assets/project-images/colorpicker.png';
 
 import Ebikeskool from "../assets/company-logos/eBikeSkool.png";
+import ComingSoon from '../assets/company-logos/comingSoon.png';
 
 import FPP from "../assets/company-logos/fpp.png";
 import WYR from "../assets/company-logos/wyrwear.png";
@@ -28,6 +29,7 @@ export const logo: Map = {
   wyrwear: WYR,
   tdc: TDC,
   ebikeskool: Ebikeskool,
+  undisclosed: ComingSoon,
   housefivetrading: HFT,
   self: selfIcon,
   fppLanding: fppLandingPage
