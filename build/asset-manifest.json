@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.21b7164d.css",
+    "main.js": "/portfolio-site/static/js/main.993ee9e6.js",
+    "static/js/787.37faa4c4.chunk.js": "/portfolio-site/static/js/787.37faa4c4.chunk.js",
+    "static/media/backyard-orange-upper.png": "/portfolio-site/static/media/backyard-orange-upper.26c7a12512f0b6eeafe5.png",
+    "static/media/project.jpeg": "/portfolio-site/static/media/project.0b9bf4b1eef0f83395b2.jpeg",
+    "static/media/fpp_frontpage.png": "/portfolio-site/static/media/fpp_frontpage.831f24034c144f6a845f.png",
+    "static/media/fpp.png": "/portfolio-site/static/media/fpp.a82c1ed66eb971bde6c2.png",
+    "static/media/frontendSkills.png": "/portfolio-site/static/media/frontendSkills.697a7c781807d3786cb3.png",
+    "static/media/colorpicker.png": "/portfolio-site/static/media/colorpicker.b4182f39f498420926cf.png",
+    "static/media/uciLogo.png": "/portfolio-site/static/media/uciLogo.6c411757a5f30ffdea2d.png",
+    "static/media/self.png": "/portfolio-site/static/media/self.7e5b6d4932001c51d4c5.png",
+    "static/media/connect4_proj.png": "/portfolio-site/static/media/connect4_proj.1e027eb4fef0caa8101a.png",
+    "static/media/housefivetrading.png": "/portfolio-site/static/media/housefivetrading.0abe0bd6dd0e8a47e376.png",
+    "static/media/wyrwear.png": "/portfolio-site/static/media/wyrwear.6c858916ba46be63a3ae.png",
+    "static/media/experience.png": "/portfolio-site/static/media/experience.3b5587c85099a2eec50f.png",
+    "static/media/tdc.png": "/portfolio-site/static/media/tdc.450a452030cb1c2546e0.png",
+    "static/media/eBikeSkool.png": "/portfolio-site/static/media/eBikeSkool.0b09d6dd94efc5aa8e62.png",
+    "static/media/skills.png": "/portfolio-site/static/media/skills.6fd8ab955dac5aed28da.png",
+    "static/media/onlineIcon.png": "/portfolio-site/static/media/onlineIcon.964e368affd120e56ed1.png",
+    "static/media/homeIcon.png": "/portfolio-site/static/media/homeIcon.2cec51aab30ae8a908cd.png",
+    "static/media/compiler.png": "/portfolio-site/static/media/compiler.88d84c5b70c8ca91d0b3.png",
+    "static/media/education.png": "/portfolio-site/static/media/education.3682fa5ac4f8df3fd30d.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.21b7164d.css.map": "/portfolio-site/static/css/main.21b7164d.css.map",
+    "main.993ee9e6.js.map": "/portfolio-site/static/js/main.993ee9e6.js.map",
+    "787.37faa4c4.chunk.js.map": "/portfolio-site/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b7164d.css",
+    "static/js/main.993ee9e6.js"
+  ]
+}
