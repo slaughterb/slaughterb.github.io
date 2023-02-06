@@ -1,0 +1,20 @@
+[
+  {
+    "name": "University of California, Irvine",
+    "abbrev": "uci",
+    "location": "Irvine, CA",
+    "course": "Undergraduate",
+    "span": "2017 - 2019",
+    "specialization": "B.S. - Computer Science",
+    "score": "GPA - 3.41"
+  },
+  {
+    "name": "Irvine Valley College",
+    "abbrev": "ivc",
+    "location": "Irvine, CA",
+    "course": "Junior College",
+    "span": "2016-2017",
+    "specialization": "IGETC / Computer Science Prerequisites",
+    "score": "GPA - 4.0"
+  }
+]

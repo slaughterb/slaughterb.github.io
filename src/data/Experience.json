@@ -1,0 +1,53 @@
+[
+  {
+    "span": "06/2022-present",
+    "company": "Ebikeskool",
+    "progress": [
+      {
+        "role": "Front End Web Designer",
+        "span": "06/2022-present",
+        "descriptions": [
+          "Designed landing pages, banner images, and website content for an online education platform. ",
+          "Built and customized web pages and webforms. Integrated plugins on WordPress to interface with Tutor learning management system to facilitate creating an online learning curriculum",
+          "Coordinated with the project owner on implementing deliverables and making timely renditions to the website’s design and functionality"
+        ]
+      }
+    ],
+    "tag": "ebikeskool"
+  },
+  {
+    "span": "07/2021-11/2021",
+    "company": "House Five Trading, LLC",
+    "progress": [
+      {
+        "role": "Software Developer",
+        "span": "07/2021-11/2021",
+        "descriptions": [
+          "Implemented and tested the performance of equities trading strategies using Alpaca’s API and finviz data",
+          "Accessed SEC filings and parsed document data using Node and Python to gather financial data and press release information",
+          "Handled financial data APIs to screen stock data and develop scanners/backtesting strategies for trading equities",
+          "Co-developed code bases analyzing social media sentiment and stock liquidity to automate trading decisions based on volume and price action",
+          "Contributed to developing a financial API encapsulating data from Finviz website and other accessible financial data resources to consolidate stock market information"
+        ]
+      }
+    ],
+    "tag": "housefivetrading"
+  },
+  {
+    "span": "05/2020-06-2020, 06/2018-11/2018",
+    "company": "Freelance / Self",
+    "progress": [
+      {
+        "role": "Web Developer / Designer",
+        "span": "07/2021-11/2021",
+        "descriptions": [
+          "Customized template file code on Shopify and WordPress to develop and design websites’ front end for various clientele",
+          "Created responsive, cross-browser website designs using HTML, CSS and Liquid",
+          "Implemented various widgets (image sliders, social media feeds, etc.) and interactive website components using JavaScript",
+          "Integrated analytics software and corroborated with marketing teams to optimize SEO and user traffic"
+        ]
+      }
+    ],
+    "tag": "self"
+  }
+]

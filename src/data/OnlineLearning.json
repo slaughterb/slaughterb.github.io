@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FreeCodeCamp",
+    "description": "I've used FreeCodeCamp to self study JavaScript, HTML, and CSS through a variety of smaller demos and practice project curriculums on the website's open source coursework.",
+    "orgUrl": "https://www.freecodecamp.org/slaughterb",
+    "urlImage":"https://popsql.com/static/external-logos/freecodecamp.png"
+  },
+  {
+    "name": "JavaScript Mastery",
+    "description": "A repository of the free tutorial projects from https://www.youtube.com/c/JavaScriptMastery used for the purpose of self study. A small collection of CRUD applications using JavaScript and its common libraries (primarily ReactJS, Node.js and Express middleware).",
+    "orgUrl": "https://github.com/slaughterb/JavaScript-Mastery-Projects",
+    "urlImage":"https://pbs.twimg.com/profile_images/1534280478991302656/8j4QlZum_400x400.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Connect Four",
+    "description": "Server-client implementation of connect four game in Java. Project uses AWT and Swing to create a GUI visualization of the game logic. The data between the server and client is transferred via a byte stream using sockets. Launching the server causes it to listen on a specified port number and wait for the client to connect. Once the client connects to the same port, a two-player game of connect four can be played. Users may take turns dropping chips into the columns, or alternatively reset the board or switch turns if desired.",
+    "sourceCode": "https://github.com/slaughterb/connect_four",
+    "demoLink": "",
+    "tag": "connectfour",
+    "technologies": ["Java", "AWT", "Swing"]
+  },
+  {
+    "name": "Compilers: Top down parser",
+    "description": "Mock top-down parser designed to interpret a simplified syntax of Java. Implementation of lexer, parser, type checker, and machine instruction generator are included in the Compiler source. Error handling, runtime-related type checking and JIT emitted instructions associated with the Compiler machine code are included in the VirtualMachine directory. ",
+    "sourceCode": "https://github.com/slaughterb/compilers",
+    "demoLink": "",
+    "tag": "compiler",
+    "technologies": ["Java"]
+  },
+  {
+    "name": "Color Picker",
+    "description": "Simple CRUD application written in JavaScript that allows users to select hexidecimal colors from a colored canvas panel and create groupings of colors for design projects. Users may create a list of selected colors and create lists of selected colors in separate arrays during their session.",
+    "sourceCode": "https://github.com/slaughterb/color-picker",
+    "demoLink": "",
+    "tag": "colorpicker",
+    "technologies": ["JavaScript", "HTML", "CSS"]
+  }
+]
