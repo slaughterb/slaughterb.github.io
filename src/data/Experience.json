@@ -1,15 +1,30 @@
 [
   {
+    "span": "08/2022-present",
+    "company": "The Dirty Cookie",
+    "progress": [
+      {
+        "role": "Shopify Developer (part-time, retainer)",
+        "span": "08/2022-present",
+        "descriptions": [
+          "Providing continued website maintanence for a web design client entailing theme customizations, 3rd-party integrations, and installing/maintaining analytics software.",
+          "Updating website images, color schemas, product information and creating new webpages and forms as necessary."
+        ]
+      }
+    ],
+    "tag": "tdc"
+  },
+  {
     "span": "06/2022-present",
     "company": "Undisclosed per owner's preference (in progress)",
     "progress": [
       {
-        "role": "Front End Web Designer",
+        "role": "JavaScript developer (part-time)",
         "span": "06/2022-present",
         "descriptions": [
-          "Designing landing pages, banner images, and website content for an online education platform. ",
-          "Building and customizing web pages and webforms. Integrating plugins on WordPress to interface with Tutor learning management system to facilitate creating an online learning curriculum",
-          "Coordinating with the project owner on implementing deliverables and making timely renditions to the website’s design and functionality"
+          "Designing an online education platform built upon ReactJS and Node with express middleware. ",
+          "Creating an online learning curriculum platform with course registrations and certifications of completion",
+          "Coordinating with the project owner on implementing deliverables and making renditions to the website’s product design and functionality"
         ]
       }
     ],
