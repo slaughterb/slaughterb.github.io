@@ -28,7 +28,7 @@ const IntroductionContainer = styled(Box)(({ theme }) => ({
 export const Header = () => {
   return (
     <IntroductionContainer>
-      <div className="header-tagline">Hi, I'm {Constants.NAME}. Welcome to my online portfolio!</div>
+      <div className="header-tagline">Hi, I'm {Constants.NAME}. Welcome to my GitHub Page!</div>
     </IntroductionContainer>
   );
 };
