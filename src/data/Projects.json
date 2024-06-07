@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Stock Screener",
+    "description": "A conglomerate of Web APIs capable of gathering and displaying financial data, including but not limited to recent earnings reports, company fundamentals, company profiles, visualized daily stock charts, and overall market performance metrics.",
+    "sourceCode": "https://github.com/slaughterb/stock-screener",
+    "demoLink": "",
+    "tag": "stockscreener",
+    "technologies": ["javascript", "react", "node", "apexcharts", "apis"]
+  },
+  {
+    "name": "Algorithm Visualizer",
+    "description": "Visualization of common sorting algorithms in React! Includes Bubble Sort, Insertion Sort, and Selection Sort implementations and the ability to choose how fast the animation occurs as well as how many array items to specify. Arrays are visualized as css-styled columns and compared/inserted elements are marked with a unique color to bring the sorting process to life as it unfolds.",
+    "sourceCode": "https://github.com/slaughterb/algorithm-visualizer",
+    "demoLink": "https://slaughterb.github.io/algorithm-visualizer",
+    "tag": "visualizer",
+    "technologies": ["javascript", "react", "materialui", "jsx", "css"]
+  },
+  {
+    "name": "React Cards",
+    "description": "Small flashcard application intended to double as React practice and as a study tool - the website hosts a variety of common programming questions and interview topics in various technologies with an emphasis on JavaScript and front end.",
+    "sourceCode": "https://github.com/slaughterb.github.io/react-cards",
+    "demoLink": "https://slaughterb.github.io/react-cards",
+    "tag": "reactcards",
+    "technologies": ["react", "jsx", "css"]
+  },
+  {
+    "name": "Connect Four",
+    "description": "Server-client implementation of connect four game in Java. Project uses AWT and Swing to create a GUI visualization of the game logic. The data between the server and client is transferred via a byte stream using sockets. Launching the server causes it to listen on a specified port number and wait for the client to connect. Once the client connects to the same port, a two-player game of connect four can be played. Users may take turns dropping chips into the columns, or alternatively reset the board or switch turns if desired.",
+    "sourceCode": "https://github.com/slaughterb/connect_four",
+    "demoLink": "",
+    "tag": "connectfour",
+    "technologies": ["java", "swing"]
+  },
+  {
+    "name": "Compilers: Top down parser",
+    "description": "Mock top-down parser designed to interpret a simplified syntax of Java. Implementation of lexer, parser, type checker, and machine instruction generator are included in the Compiler source. Error handling, runtime-related type checking and JIT emitted instructions associated with the Compiler machine code are included in the VirtualMachine directory. ",
+    "sourceCode": "https://github.com/slaughterb/compilers",
+    "demoLink": "",
+    "tag": "compiler",
+    "technologies": ["java"]
+  }
+]

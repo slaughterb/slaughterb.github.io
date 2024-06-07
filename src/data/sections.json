@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Homepage",
+    "key": "about",
+    "hide":false
+  },
+  {
+    "name": "Experience",
+    "key": "experience",
+    "hide":false
+  },
+  {
+    "name": "Projects",
+    "key": "projects",
+    "hide":false
+  },
+  {
+    "name": "Education",
+    "key": "education",
+    "hide":false
+  },
+  {
+    "name": "Skills",
+    "key": "skills",
+    "hide":false
+  },
+  {
+    "name": "Online Content",
+    "key": "onlinecontent",
+    "hide":false
+  }
+]

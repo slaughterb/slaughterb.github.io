@@ -1,0 +1,82 @@
+[
+  {
+<<<<<<< HEAD
+    "span": "08/2022-present",
+    "company": "The Dirty Cookie",
+=======
+    "span": "06/2022-present",
+    "company": "Undisclosed (in progress)",
+>>>>>>> ad3aa3a2 (updated recent exp)
+    "progress": [
+      {
+        "role": "Shopify Developer (part-time, retainer)",
+        "span": "08/2022-present",
+        "descriptions": [
+<<<<<<< HEAD
+          "Providing continued website maintanence for a web design client entailing theme customizations, 3rd-party integrations, and installing/maintaining analytics software.",
+          "Updating website images, color schemas, product information and creating new webpages and forms as necessary."
+        ]
+      }
+    ],
+    "tag": "tdc"
+  },
+  {
+    "span": "06/2022-present",
+    "company": "Undisclosed per owner's preference (in progress)",
+    "progress": [
+      {
+        "role": "JavaScript developer (part-time)",
+        "span": "06/2022-present",
+        "descriptions": [
+          "Designing an online education platform built upon ReactJS and Node with express middleware. ",
+          "Creating an online learning curriculum platform with course registrations and certifications of completion",
+          "Coordinating with the project owner on implementing deliverables and making renditions to the website’s product design and functionality"
+        ]
+      }
+    ],
+=======
+          "Designing landing pages, banner images, and website content for an online education platform. ",
+          "Building and customizing web pages and webforms. Integrating plugins on WordPress to interface with Tutor learning management system to facilitate creating an online learning curriculum",
+          "Coordinating with the project owner on implementing deliverables and making timely renditions to the website’s design and functionality"
+        ]
+      }
+    ],
+>>>>>>> ad3aa3a2 (updated recent exp)
+    "tag": "undisclosed"
+  },
+  {
+    "span": "07/2021-11/2021",
+    "company": "House Five Trading, LLC",
+    "progress": [
+      {
+        "role": "Software Developer",
+        "span": "07/2021-11/2021",
+        "descriptions": [
+          "Implemented and tested the performance of equities trading strategies using Alpaca’s API and finviz data",
+          "Accessed SEC filings and parsed document data using Node and Python to gather financial data and press release information",
+          "Handled financial data APIs to screen stock data and develop scanners/backtesting strategies for trading equities",
+          "Co-developed code bases analyzing social media sentiment and stock liquidity to automate trading decisions based on volume and price action",
+          "Contributed to developing a financial API encapsulating data from Finviz website and other accessible financial data resources to consolidate stock market information"
+        ]
+      }
+    ],
+    "tag": "housefivetrading"
+  },
+  {
+    "span": "05/2020-06/2020, 06/2018-11/2018",
+    "company": "Freelance / Self",
+    "progress": [
+      {
+        "role": "Web Developer / Designer",
+        "span": "05/2020-06/2020, 06/2018-11/2018",
+        "descriptions": [
+          "Customized template file code on Shopify and WordPress to develop and design websites’ front end for various clientele",
+          "Created responsive, cross-browser website designs using HTML, CSS and Liquid",
+          "Implemented various widgets (image sliders, social media feeds, etc.) and interactive website components using JavaScript",
+          "Integrated analytics software and corroborated with marketing teams to optimize SEO and user traffic"
+        ]
+      }
+    ],
+    "tag": "self"
+  }
+]
