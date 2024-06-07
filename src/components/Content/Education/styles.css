@@ -1,4 +1,6 @@
 
 .educationSection .description {
 	margin: 14px;
+	padding: 4px;
+	border-radius: 3px;
 }
