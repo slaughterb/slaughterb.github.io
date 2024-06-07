@@ -6,13 +6,15 @@ import { Edu } from './Edu.tsx';
 
 import education from '../../../data/Education.json';
 
+import './styles.css';
+
 export const EducationContainer = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
 
 	return (
-		<SectionWrapper>
+		<SectionWrapper className="educationSection">
 			<TitleHeader>Education</TitleHeader>
 			<Box>
 				<Grid container spacing={3}>
